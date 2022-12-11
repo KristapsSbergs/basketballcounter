@@ -3,7 +3,7 @@
     src: url(CursedTimerUlil-Aznm.ttf)
 }
 body {
-    margin: 0;
+    margin: 0 auto;
     background: #1b244a;
     font-family: Verdana;
     max-width: 500px;
